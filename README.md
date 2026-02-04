@@ -1,1 +1,1 @@
-# odin-recipes
+This is my very first project. Here i will demonstrate the basics i learned about html and  CSS during my first steps in the odin project.
